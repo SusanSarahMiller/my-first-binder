@@ -1,0 +1,11 @@
+name: dashboard-test
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - matplotlib-base
+  - pandas
+  - ipywidgets
+  - jupyterlab>=3.1
+  - voila>=0.2.11
+  - nodejs
